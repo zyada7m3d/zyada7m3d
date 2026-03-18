@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Abdelrhman El-Tayeb</h1>
+<h1 align="center">Hi 👋, I'm Zyad Ahmed</h1>
 <h3 align="center">
-a university student and aspiring Data Engineering.
+a university student and aspiring Data Science.
 
 </h3>
 
 
 <p align="center">
-  <a href="https://twitter.com/abdelrhman8820" target="_blank">
+  <a href="https://x.com/ZyadA7m3d" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Abdelrhman El-Tayeb?style=social&background=000000" alt="Follow on X" style="max-width: 100%; height: auto;"></a>
   </a>
 </p>
@@ -37,30 +37,19 @@ a university student and aspiring Data Engineering.
 <table>
  <tr>
   <td align="center" width="96">
-    <a href="https://twitter.com/abdelrhman8820" target="_blank">
+    <a href="https://x.com/ZyadA7m3d" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30" />
   </a>
     <br>Twitter
      </td>
    <td align="center" width="96">
-      <a href="https://linkedin.com/in/abdelrhman-eltyb" target="_blank">
+      <a href="https://www.linkedin.com/in/zyadahmedhamed" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
   </a>
      <br>LinkedIn
      </td>
-   <td align="center" width="96">
-      <a href="https://codeforces.com/profile/abdelrhman58" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="30" height="30" />
-  </a>
-      <br>Codeforces
-     </td>
-   
- <td align="center" width="96">
-  <a href="https://leetcode.com/u/abdelrhmaneltayeb77/" target="_blank">
-    <img src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="LeetCode" width="30" height="30" />
-  </a>
-  <br>LeetCode
-</td>
+  
+ 
 
  </tr>
 </table>
