@@ -7,7 +7,7 @@ a university student and aspiring Data Science.
 
 <p align="center">
   <a href="https://x.com/ZyadA7m3d" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/Abdelrhman El-Tayeb?style=social&background=000000" alt="Follow on X" style="max-width: 100%; height: auto;"></a>
+    <img src="https://img.shields.io/twitter/follow/Zyad Ahmed?style=social&background=000000" alt="Follow on X" style="max-width: 100%; height: auto;"></a>
   </a>
 </p>
 
