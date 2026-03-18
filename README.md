@@ -114,9 +114,9 @@ a university student and aspiring Data Science.
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrhman52&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?usernamezyada7m3d&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrhman52&theme=tokyonight&token=YOUR_TOKEN" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyada7m3d&theme=tokyonight&token=YOUR_TOKEN" alt="GitHub Streak" />
 </p>
