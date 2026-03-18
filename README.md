@@ -26,7 +26,7 @@ a university student and aspiring Data Science.
   <li>💡 Always curious and eager to improve, I'm also enhancing my skills in Git/GitHub, and getting familiar with tools like Jupyter Notebook and basic SQL.</li>
   <li>🚀 Interested in building small data projects to apply what I learn and share my progress.</li>
   <li>📫 Reach me at: <a href="mailto:abdelrhmaneltayeb7@gmail.com">abdelrhmaneltayeb7@gmail.com</a></li>
-  <li>🔗 Connect with me on <a href="https://www.linkedin.com/in/abdelrhman-eltyb">LinkedIn</a></li>
+  <li>🔗 Connect with me on <a href="https://www.linkedin.com/in/zyadahmedhamed">LinkedIn</a></li>
 </ul>
       
 
